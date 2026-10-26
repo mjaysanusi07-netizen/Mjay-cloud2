@@ -1,0 +1,13 @@
+{
+  "name": "mjay-bot",
+  "version": "1.0.0",
+  "description": "Mjay WhatsApp Bot",
+  "main": "mjay.cjs",
+  "scripts": {
+    "start": "node mjay.cjs"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.24",
+    "pino": "^9.0.0"
+  }
+}
